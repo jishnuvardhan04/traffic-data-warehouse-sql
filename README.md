@@ -82,6 +82,6 @@ Time-series forecasting models
 ---
 Contact
 Author: Jishnu Vardhan
-Role: Data Science Engineer | SQL , python, ML
+Role: Data Science Engineer | SQL , python, ML   
 Author: Jishnu Vardhan
 Role: Data Science Engineer | SQL • Python • ML
